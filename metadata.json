@@ -1,0 +1,6 @@
+{
+  "name": "Manpower Optimization & Acknowledgment Plan",
+  "description": "ระบบจัดทำแผนและเอกสารลงนามรับทราบการปรับลดอัตรากำลังคน (Workforce Reduction & Quota Acknowledgment Plan 2026) พร้อมระบบลงนามดิจิทัลและพิมพ์เอกสารราชการ/บริษัท",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
